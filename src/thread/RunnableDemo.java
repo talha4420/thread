@@ -1,6 +1,6 @@
 package thread;
 
-pclass RunnableDemo implements Runnable {
+class RunnableDemo implements Runnable {
 	   private Thread t;
 	   private String threadName;
 	   
